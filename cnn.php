@@ -6,3 +6,4 @@ if (!$conexion) {
 else {
     echo "Conexion exitosa a la base de datos. ";
 }
+?>
